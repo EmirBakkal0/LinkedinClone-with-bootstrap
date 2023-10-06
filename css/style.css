@@ -25,9 +25,9 @@ input.searche::placeholder {
 }
 
 .menutext {
-  font-size: 13px;
+  font-size: 11px;
   font-family: Arial, Helvetica, sans-serif;
-  color: gray;
+  color: pink;
   margin-top: 5px;
   font-weight: lighter;
 }
