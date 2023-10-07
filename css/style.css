@@ -11,11 +11,13 @@ input.searche {
 }
 
 input.searche::placeholder {
+  text-align: top;
   font-size: 14px;
   color: gray;
   background-image: url(../assets/search-solid.svg);
   background-repeat: no-repeat;
   background-size: 7%;
+  
   /* background: url('../assets/search-solid.svg'); */
   
 }
@@ -27,7 +29,7 @@ input.searche::placeholder {
 .menutext {
   font-size: 11px;
   font-family: Arial, Helvetica, sans-serif;
-  color: pink;
+  color: gray;
   margin-top: 5px;
   font-weight: lighter;
 }
